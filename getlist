@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Xiaomi Mi 13 Lite 5G",
+    "price": 8500000,
+    "description": "NE 8G/128GB",
+    "image_url": "https://dienthoaigiakho.vn/_next/image?url=https%3A%2F%2Fcdn.dienthoaigiakho.vn%2Fphotos%2F1681957360610-Mi-13-Lite-5G-NE-8G_128GB.jpg&w=640&q=75"
+  },
+  {
+    "id": "2",
+    "name": "Điện thoại Vivo V25",
+    "price": 3000000,
+    "description": "5G",
+    "image_url": "https://cdn.tgdd.vn/Products/Images/42/283148/vivo-v25-vang-1.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Điện thoại Samsung Galaxy A23",
+    "price": 2000000,
+    "description": "(4G+128G) A235F Xanh",
+    "image_url": "https://cdn.mediamart.vn/images/product/din-thoi-samsung-galaxy-a23-4g128g-a235f-den_0b819d17.webp"
+  },
+  {
+    "id": "4",
+    "name": "Điện thoại Xiaomi Redmi 12C",
+    "price": 6000000,
+    "description": "MediaTek Helio G85 và ống kính 50 MP",
+    "image_url": "https://cdn.tgdd.vn/Products/Images/42/303575/xiaomi-redmi-12c-blue-1-1.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Điện thoại realme C30s",
+    "price": 2600000,
+    "description": "khả năng đáp ứng tốt các nhu cầu sử dụng cơ bản",
+    "image_url": "https://cdn.tgdd.vn/Products/Images/42/290878/realme-c30s-den-4gb-1.jpg"
+  }
+]
